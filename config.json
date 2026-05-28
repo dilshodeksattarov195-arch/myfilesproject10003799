@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereelete",
+        "uuid": 11150065,
+        "checksum": "7mzm59"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
